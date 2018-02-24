@@ -1,1 +1,4 @@
-# ReactRedux_20-02-18
+# ReactRedux_E-Commerce_Basic-Project
+
+<h2>To run this project:</h2>
+<p>npm install</p>
